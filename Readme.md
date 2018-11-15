@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomImageEdit.cs](./CS/CustomImageEdit/CustomImageEdit.cs) (VB: [CustomImageEdit.vb](./VB/CustomImageEdit/CustomImageEdit.vb))
+* [Form1.cs](./CS/CustomImageEdit/Form1.cs) (VB: [Form1.vb](./VB/CustomImageEdit/Form1.vb))
+* [Program.cs](./CS/CustomImageEdit/Program.cs) (VB: [Program.vb](./VB/CustomImageEdit/Program.vb))
+<!-- default file list end -->
 # A custom editor that allows editing an image's filename and behaves like ImageEdit
 
 
